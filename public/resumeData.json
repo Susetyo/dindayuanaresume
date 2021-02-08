@@ -2,14 +2,14 @@
     "main": {
         "name": "Dinda Yuana Alfisa",
         "occupation": "",
-        "description": "I love English",
+        "description": "",
         "image": "profilepic.jpg",
         "bio": "I’m an undergraduate student who born to seek new knowledge. I'm someone who filled with an endless zing and a boldness to meet some novelties. The thought of what, when, why, and how urge me to explore the curiosity I have in my head, guide myself for better improvements.",
         "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
         "email": "dindayuanaa@gmail.com",
-        "phone": "+62 7855567639",
+        "phone": "+62 87855567639",
         "address": {
-            "street": "Rewin 2",
+            "street": "",
             "city": "Surabaya",
             "state": "Indonesia",
             "zip": ""
@@ -51,19 +51,19 @@
         ],
         "work": [
             {
-                "company": "Calliestea.id",
+                "company": "Callisteia.id",
                 "title": "Social Media Manager",
                 "years": "2019-Present",
                 "description": "handling and managing the social media content, creating the promotion of the products, monitoring social media analytic, and dealing with customers."
             },
             {
-                "company": "MAMPIRSURABAYA, UNDER THE NAME OF MAMPIR CORP COMMUNITY",
+                "company": "Mampirsurabaya, under the name of MAMPIR CORP community",
                 "title": "Social Media Manager",
                 "years": "2016-2019",
                 "description": "Promoting and giving information about places in Surabaya through Instagram."
             },
             {
-                "company": "@LUNAR.BEAUTYCARE",
+                "company": "Lunar Beautycare",
                 "title": "Social Media Manager",
                 "years": "2016",
                 "description": "Selling beauty products, managing the spending and income, handling the official account."
@@ -92,16 +92,10 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Insuranceguru Clone (React JS)",
+                "title": "Callisteia.id",
                 "category": "",
-                "image": "InsuranceGuruClone.PNG",
-                "url": "https://github.com/Susetyo/insurance-guru-clone"
-            },
-            {
-                "title": "Amazon Clone (React JS)",
-                "category": "",
-                "image": "AmazonClone.PNG",
-                "url": "https://github.com/Susetyo/insurance-guru-clone"
+                "image": "data:image/png;base64,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",
+                "url": "https://instagram.com/callisteia.id/"
             }
         ]
     },

@@ -18,24 +18,14 @@
         "resumedownload": "Dinda_Yuana_Alfisa_CV.pdf",
         "social": [
             {
-                "name": "facebook",
-                "url": "https://www.facebook.com/susetyo.pambudi",
-                "className": "fa fa-facebook"
-            },
-            {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/susetyo/",
+                "url": "https://www.linkedin.com/in/dinyun/",
                 "className": "fa fa-linkedin"
             },
             {
                 "name": "instagram",
-                "url": "https://instagram.com/raitoandtyo",
+                "url": "https://instagram.com/dinda.yuana/",
                 "className": "fa fa-instagram"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/Susetyo",
-                "className": "fa fa-github"
             }
         ]
     },
@@ -64,7 +54,7 @@
             },
             {
                 "company": "Lunar Beautycare",
-                "title": "Social Media Manager",
+                "title": "Owner",
                 "years": "2016",
                 "description": "Selling beauty products, managing the spending and income, handling the official account."
             }
@@ -102,12 +92,8 @@
     "testimonials": {
         "testimonials": [
             {
-                "text": "Tio is excellent engineer, he always learn faster than others. Tio and me are working together covering display modules in iLotte.com. He also help me for improving login performance issue.",
-                "user": "Imam Nurhadianto - Software Engineer at iStyle.id"
-            },
-            {
-                "text": "Susetyo is one of my best partner in works and life. We worked at the same company in many times. When we discussed something, he always give me a good idea and we working on it, the result is brilliant! He lead a team well and cappable to brief his team to achieve the mission. It's amazing to work with him and I trust in him everything ! He got my back, and I got his back",
-                "user": "Ali Reza Yudhistira - Head of Product and Cloud Infrastructure"
+                "text": "Dinda adalah pribadi yang periang dan menurut saya membawa positive vibes untuk orang sekitarnya. Dalam melakukan pekerjaanya dia memang bukan yang sempurna tapi untuk seseorang yang bisa di beri tanggung jawab Dinda seorang yang profesional. Kejujurannya yang membuat saya sangat kagum dan percaya bahwa dia bisa menjadi orang yang sukses kedepannya.",
+                "user": "M. Iqbal Abidin - Owner Hi Coffee"
             }
         ]
     }

@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
                         <li>
                             Made by{" "}
                             <a title="PAPA" href="#">
-                                Susetyo
+                                Dinda Yuana.
                             </a>
                         </li>
                     </ul>

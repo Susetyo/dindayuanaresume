@@ -1,5 +1,6 @@
 import React from "react";
 import TypeWriter from "react-typewriter";
+import "./Header.css";
 
 const Header = ({ data }) => {
     if (data) {
@@ -53,11 +54,11 @@ const Header = ({ data }) => {
                             Works
                         </a>
                     </li>
-                    <li>
+                    {/* <li>
                         <a className="smoothscroll" href="#testimonials">
                             Testimonials
                         </a>
-                    </li>
+                    </li> */}
                     <li>
                         <a className="smoothscroll" href="#contact">
                             Contact
@@ -78,7 +79,7 @@ const Header = ({ data }) => {
                         {description}.
                     </h3>
                     <hr />
-                    <ul className="social">{networks}</ul>
+                    {/* <ul className="social">{networks}</ul> */}
                 </div>
             </div>
 
@@ -87,6 +88,7 @@ const Header = ({ data }) => {
                     <i className="icon-down-circle"></i>
                 </a>
             </p>
+            <div className="backgroundColor--gradient" />
         </header>
     );
 };

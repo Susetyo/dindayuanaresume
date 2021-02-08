@@ -1,0 +1,31 @@
+.backgroundColor--gradient {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    background-image: linear-gradient(
+        to top,
+        rgb(75 32 32 / 43%) 0,
+        rgb(0 0 0 / 0%) 60%,
+        rgb(27 23 23 / 19%) 100%
+    );
+}
+
+header .banner-text {
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+header .banner-text h1,
+header .banner-text h3 {
+    text-shadow: none !important;
+}
+
+header .banner-text h3 {
+    color: #fff;
+}

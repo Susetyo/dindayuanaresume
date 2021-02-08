@@ -1,21 +1,21 @@
 {
     "main": {
-        "name": "Susetyo Pambudi",
+        "name": "Dinda Yuana Alfisa",
         "occupation": "",
-        "description": "I eat, sleep and breathe React",
+        "description": "I love English",
         "image": "profilepic.jpg",
-        "bio": "Hi there! I am Susetyo Pambudi! You can call me Tyo. I've been coding for over 4 years now. As a Frontend developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others with my code to solve their problem.",
+        "bio": "I’m an undergraduate student who born to seek new knowledge. I'm someone who filled with an endless zing and a boldness to meet some novelties. The thought of what, when, why, and how urge me to explore the curiosity I have in my head, guide myself for better improvements.",
         "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-        "email": "susetyo.pambudi@gmail.com",
-        "phone": "+62 8113227230",
+        "email": "dindayuanaa@gmail.com",
+        "phone": "+62 7855567639",
         "address": {
-            "street": "Peninggaran Timur II",
-            "city": "Jakarta",
+            "street": "Rewin 2",
+            "city": "Surabaya",
             "state": "Indonesia",
             "zip": ""
         },
         "website": "",
-        "resumedownload": "Susetyo_Mulia_Pambudi_CV.pdf",
+        "resumedownload": "Dinda_Yuana_Alfisa_CV.pdf",
         "social": [
             {
                 "name": "facebook",
@@ -44,35 +44,48 @@
         "education": [
             {
                 "school": "Universitas Airlangga - UNAIR",
-                "degree": "Diploma, Information System",
-                "graduated": "July 2016",
-                "description": "Graduated with excellent result."
+                "degree": "Bachelor, English Language and Literature",
+                "graduated": "2021",
+                "description": "Currently working on a thesis entitled Politeness Strategies used by Iyas Lawrence in Makna Talks Spotify Podcast Deddy Corbuzier Talks about Ending the Era of Magic Episode."
             }
         ],
         "work": [
             {
-                "company": "noggin.ai",
-                "title": "Frontend Developer",
-                "years": "May 2020 - Present",
-                "description": "Make a website, mobile web and apps."
+                "company": "Calliestea.id",
+                "title": "Social Media Manager",
+                "years": "2019-Present",
+                "description": "handling and managing the social media content, creating the promotion of the products, monitoring social media analytic, and dealing with customers."
+            },
+            {
+                "company": "MAMPIRSURABAYA, UNDER THE NAME OF MAMPIR CORP COMMUNITY",
+                "title": "Social Media Manager",
+                "years": "2016-2019",
+                "description": "Promoting and giving information about places in Surabaya through Instagram."
+            },
+            {
+                "company": "@LUNAR.BEAUTYCARE",
+                "title": "Social Media Manager",
+                "years": "2016",
+                "description": "Selling beauty products, managing the spending and income, handling the official account."
             }
         ],
         "skills": [
             {
-                "name": "ReactJs",
+                "name": "Language and Media",
                 "level": "100%"
             },
             {
-                "name": "Git",
-                "level": "70%"
+                "name": "ENG-ID and ID-ENG Translator",
+                "level": "100%"
             },
             {
-                "name": "JavaScript",
-                "level": "99%"
+                "name": "Discourse Analysis",
+                "level": "90%"
             },
+
             {
-                "name": "Web Development",
-                "level": "95%"
+                "name": "Procreate",
+                "level": "90%"
             }
         ]
     },
